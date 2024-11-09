@@ -1,6 +1,6 @@
 paths:
-  data_raw: data/raw
-  data_processed: data/processed
+  data_images: ../data/images
+  data_masks: ../data/masks
   models: src/models
   logs: logs
 model:
