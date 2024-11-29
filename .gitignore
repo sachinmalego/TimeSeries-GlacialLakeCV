@@ -1,3 +1,4 @@
 .DS_Store
 src/models/unet_model.keras/
- 
+notebooks/data/
+notebooks/glacier_segmentation.pth
